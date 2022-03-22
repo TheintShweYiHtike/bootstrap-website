@@ -1,0 +1,67 @@
+* {
+  font-family: Cambria;
+}
+.container4 {
+  background-image: url("ts.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 650px;
+  width: 100%;
+}
+.bx-menu {
+  margin-right: 0px;
+  margin-left: 655px;
+}
+.night {
+  margin-top: 140px;
+  margin-left: 160px;
+  /* margin-right: 100px; */
+  color: white;
+}
+button {
+  opacity: 0.33;
+  border-radius: 5px;
+}
+
+.container1 {
+  background: linear-gradient(to bottom, #000000 0%, #000066 100%);
+  /* margin-left: 43px;
+  margin-right: 43px; */
+  height: 1600px;
+  background-position: 100%;
+}
+.textgroup {
+  color: aliceblue;
+  margin-top: 60px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+p {
+  color: rgb(178, 174, 179);
+}
+h3 {
+  float: left;
+}
+.container2 {
+  background: linear-gradient(to bottom, #000066 0%, #0d338c 100%);
+  /* margin-left: 43px;
+  margin-right: 43px; */
+  height: 200px;
+  background-position: 100%;
+}
+.container3 {
+  background-image: url("nshort.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* margin-left: 43px;
+  margin-right: 43px; */
+  margin-top: -70px;
+  height: 500px;
+  background-position: 100%;
+}
+.textgp {
+  color: aliceblue;
+  margin-left: 120px;
+  margin-right: 150px;
+  padding-top: 100px;
+}
